@@ -17,7 +17,7 @@ Making sure you differentiate between objects that are truly data structure (usu
 e.g. 
 ```
 function foo(){
-  this.foo = "foo"
+  this.foo = 'foo'
 }
 
 var bar = {
